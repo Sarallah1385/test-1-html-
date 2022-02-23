@@ -1,0 +1,4 @@
+/*Element selector*/
+ body{
+     background: #ccc;
+ }

@@ -1,0 +1,26 @@
+/*Element selector*/
+ body{
+     background: rgb(200, 211, 211);
+
+
+ /*.is for classes*/
+ .welcome{
+     background:rgb(105, 233, 233)
+ }
+ /*is for lds*/
+ #about{
+     background:rgb(172, 46, 245)
+ }
+/*Element selector*/
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 19px;
+     line-height: 100px;
+ }
+ p{
+    color:green ;
+ }
+ h4{
+       /*rgb*/
+       color: rgb(200, 240, 150);
+ }
